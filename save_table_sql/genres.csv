@@ -1,0 +1,295 @@
+genre_id,genre_name
+0,Historical Romance
+1,Detective
+2,Liberia
+3,High Fantasy
+4,World War II
+5,Modern Classics
+6,Christian
+7,Asia
+8,Retellings
+9,Theatre
+10,Nigeria
+11,Political Science
+12,Contemporary
+13,Philosophy
+14,Sports
+15,Crime
+16,Romance
+17,Short Stories
+18,New Adult
+19,Picture Books
+20,Journalism
+21,Historical
+22,Animals
+23,Science Fiction Fantasy
+24,Graphic Novels
+25,Thriller
+26,Southern
+27,Science
+28,Ireland
+29,Sierra Leone
+30,Cats
+31,French Literature
+32,Christian
+33,Italian Literature
+34,Romance
+35,Epic Fantasy
+36,Essays
+37,Environment
+38,Dragons
+39,Legal Thriller
+40,Medieval
+41,Theology
+42,Audiobook
+43,Noir
+44,Fantasy Romance
+45,Africa
+46,France
+47,Australia
+48,Crime
+49,Apocalyptic
+50,Lds
+51,Japanese Literature
+52,Adventure
+53,Fairies
+54,Plays
+55,Time Travel
+56,Vampires
+57,Productivity
+58,Africa
+59,Mystery Thriller
+60,Aliens
+61,Westerns
+62,Plays
+63,Japan
+64,Native American
+65,High School
+66,Sociology
+67,Urban Fantasy
+68,Classics
+69,Epic
+70,Drama
+71,Prehistoric
+72,Picture Books
+73,Dystopia
+74,Poetry
+75,Art History
+76,Canada
+77,Humor
+78,Nonfiction
+79,Inspirational
+80,Holocaust
+81,Counting
+82,Travel
+83,Philosophy
+84,Communication
+85,Germany
+86,Comedy
+87,Greek Mythology
+88,Autistic Spectrum Disorder
+89,True Crime
+90,Comics
+91,Drama
+92,Biology
+93,Young Adult
+94,Presidents
+95,Christianity
+96,Nonfiction
+97,Fiction
+98,Religion
+99,Abuse
+100,Storytime
+101,Chick Lit
+102,History
+103,Leadership
+104,Spain
+105,Czech Literature
+106,Thriller
+107,Fantasy
+108,Travel
+109,Psychological Thriller
+110,Greek Mythology
+111,Physics
+112,Education
+113,Botswana
+114,LGBT
+115,Romantic
+116,Medicine
+117,Ethiopia
+118,Young Adult
+119,Self Help
+120,German Literature
+121,Biography
+122,Young Adult Fantasy
+123,Gothic
+124,Egypt
+125,Contemporary Romance
+126,Comic Book
+127,Finance
+128,Relationships
+129,Arthurian
+130,Russia
+131,Indigenous
+132,Novels
+133,Erotica
+134,19th Century
+135,Post Apocalyptic
+136,Space Opera
+137,Biography Memoir
+138,Horses
+139,Pirates
+140,Faith
+141,BDSM
+142,Espionage
+143,Suspense
+144,Literature
+145,Personal Development
+146,Business
+147,Russian Literature
+148,Nutrition
+149,Zombies
+150,Vampires
+151,Read For School
+152,Mythology
+153,New Adult
+154,Chick Lit
+155,Survival
+156,History
+157,Classics
+158,Mystery
+159,Medical
+160,Witches
+161,Speculative Fiction
+162,India
+163,Dark
+164,Health
+165,Architecture
+166,Mystery
+167,Media Tie In
+168,Kids
+169,Books About Books
+170,New York
+171,Christmas
+172,Memoir
+173,Mystery Thriller
+174,Teen
+175,Religion
+176,Realistic Fiction
+177,Atheism
+178,European Literature
+179,Dragons
+180,Adult Fiction
+181,Christian Fiction
+182,Fiction
+183,Short Stories
+184,American
+185,Writing
+186,Christmas
+187,Middle Grade
+188,Childrens
+189,Paranormal
+190,African American
+191,Feminism
+192,Italy
+193,Self Help
+194,College
+195,Politics
+196,Angels
+197,Asian Literature
+198,Dogs
+199,Anthologies
+200,Werewolves
+201,Food
+202,School
+203,Adult
+204,Supernatural
+205,Science Fiction
+206,Dystopia
+207,Scotland
+208,Portugal
+209,War
+210,Action
+211,Banned Books
+212,Mental Illness
+213,Buddhism
+214,Literary Fiction
+215,Magical Realism
+216,Paranormal
+217,Victorian
+218,Fae
+219,Fairy Tales
+220,Graphic Novels Comics
+221,Young Adult Romance
+222,Horror
+223,Southern Gothic
+224,Dark
+225,Urban Fantasy
+226,China
+227,20th Century
+228,Military Fiction
+229,Greece
+230,Irish Literature
+231,Evolution
+232,Popular Science
+233,Anthropology
+234,Gay
+235,Magic
+236,Social Justice
+237,Civil War
+238,American History
+239,Astronomy
+240,Not Available
+241,Jewish
+242,Historical Fiction
+243,Mythology
+244,Reference
+245,Adventure
+246,Fantasy
+247,Queer
+248,Horror
+249,Space
+250,Race
+251,British Literature
+252,Church
+253,Historical Fiction
+254,Cyberpunk
+255,Marriage
+256,Psychology
+257,Collections
+258,Judaism
+259,Love
+260,18th Century
+261,Novels
+262,Paranormal Romance
+263,Classic Literature
+264,Monsters
+265,Cozy Mystery
+266,Steampunk
+267,Romantasy
+268,Indian Literature
+269,South Africa
+270,Science
+271,France
+272,Music
+273,Mental Health
+274,Coming Of Age
+275,Poetry
+276,Humor
+277,Spirituality
+278,Autobiography
+279,Childrens
+280,Halloween
+281,Contemporary
+282,Spanish Literature
+283,Graphic Novels
+284,Erotic Romance
+285,Holiday
+286,Family
+287,Nature
+288,Economics
+289,Art
+290,Science Fiction
+291,Book Club
+292,Paranormal Romance
+293,World War I
